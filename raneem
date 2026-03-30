@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>College of Computing and Informatics - SEU</title>
+</head>
+<body>
+
+    <!-- Main Heading -->
+    <h1>College of Computing and Informatics</h1>
+
+    <!-- Sub-heading -->
+    <h2>Saudi Electronic University (SEU)</h2>
+
+    <!-- Paragraph -->
+    <p>
+        The College of Computing and Informatics at Saudi Electronic University (SEU) 
+        offers high-quality education in the fields of computer science, information technology, 
+        and data science. The college aims to prepare students with the knowledge and skills 
+        required to meet the demands of the digital world and contribute effectively to the 
+        development of the information technology sector.
+    </p>
+
+    <!-- Hyperlink -->
+    <p>
+        Visit SEU official website:
+        <a href="https://www.seu.edu.sa" target="_blank">Saudi Electronic University</a>
+    </p>
+
+</body>
+</html>
